@@ -39,7 +39,7 @@ And I press "equals"
 
 Then I see the "added Fractional" as the result
 
-## Scenario: Addition of +ve and -ve number
+## Scenario: Addition of positive and negative number
 
 Given The calculator is turned on
 
