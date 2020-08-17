@@ -58,7 +58,7 @@ Given The calculator is turned on
 
 When I type in "Decimal number"
 And I press "plus"
-And I type in another "Decimal number" 
+And I type in another "Decimal number"
 And I press "equals"
 
 Then I see the "Added Decimal number" as the result
