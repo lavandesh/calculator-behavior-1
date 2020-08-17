@@ -11,7 +11,6 @@ And I press "equals"
 
 Then I see the "added number" as the result
 
-
 ## Scenario: Addition of two negative numbers
 
 Given The calculator is turned on
@@ -24,7 +23,6 @@ And I press "Close Bracket"
 And I press "equals"
 
 Then I see the "added number" as the result
-
 
 ## Scenario: Addition of fractions
 
@@ -41,7 +39,6 @@ And I press "equals"
 
 Then I see the "added Fractional" as the result
 
-
 ## Scenario: Addition of +ve and -ve number
 
 Given The calculator is turned on
@@ -55,7 +52,6 @@ And I press "equals"
 
 Then I see the "added number" as the result
 
-
 ## Scenario: Addition of decimals
 
 Given The calculator is turned on
@@ -66,7 +62,6 @@ And I type in another "Decimal number"
 And I press "equals"
 
 Then I see the "Added Decimal number" as the result
-
 
 ## Scenario: Typing operator more than once
 
@@ -79,7 +74,6 @@ And I press "equals"
 
 Then I see the "added number" as the result
 
- 
 ## Scenario: Addition of more than 2 numbers
 
 Given The calculator is turned on
@@ -92,8 +86,7 @@ And I type in another "positive number"
 And I press "equals"
 
 Then I see the "added number" as the result
- 
- 
+
 ## Scenario: Adding numbers where the result goes out of range
 
 Given The calculator is turned on
@@ -104,7 +97,6 @@ And I type in another "largest positive number"
 And I press "equals"
 
 Then I see the "Out Of Range" as the result
-
 
 ## Scenario: 6+* is provided as input
 
@@ -117,7 +109,6 @@ And I press "equals"
 
 Then I see the same "positive number" as the result
 
-
 ## Scenario: Identity operation
 
 Given The calculator is turned on
@@ -128,7 +119,6 @@ And I type in Zero
 And I press "equals"
 
 Then I see the same "number" as the result
-
 
 ## Scenario: Converse operation
 
