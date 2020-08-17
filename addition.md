@@ -98,7 +98,7 @@ And I press "equals"
 
 Then I see the "Out Of Range" as the result
 
-## Scenario: 6+* is provided as input
+## Scenario: 6+* as input
 
 Given The calculator is ON
 
