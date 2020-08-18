@@ -120,7 +120,7 @@ And press 'close bracket' and press 'equals'
 
 then display the result in decimals up to 8 places
 
-## Scenario: Division of multiple numbers (eg: 4/5/6/7)
+## Scenario: Division of multiple numbers (for example: 4/5/6/7)
 
 Given the calculator is ON
 
