@@ -21,12 +21,6 @@ And press 'close bracket' and press 'equals'
 
 Then I see multiplication result with positive sign
 
-## Scenario: Multiplication by Zero
-
-## Scenario: Multiplication by 1
-
-## Scenario: Multiplication of Decimals
-
 ## Scenario: Multiplication of Irrationals
 
 Given the calculator is ON
@@ -38,8 +32,6 @@ and press equals
 
 then display the result in decimals up to 8 places
 
-## Scenario: Simple multiplication
-
 ## Scenario: Rational multiplication
 
 Given the calculator is ON
@@ -50,8 +42,6 @@ And again press 'open bracket' and enter another 'rational number'
 And press 'close bracket' and press 'equals'
 
 then display the result in decimals up to 8 places
-
-## Scenario: Decimal & integer multiplication
 
 ## Scenario: More than two numbers multiplication
 
@@ -96,7 +86,7 @@ and press 'add'
 and enter 'another number'
 and press equals
 
-Then 'added number' is displayed as a result
+Then display 'added number' as a result
 
 ## Scenario: Decimal value capping
 
@@ -107,3 +97,13 @@ whose multiplication has more than 9 digits
 after decimal point
 
 Then display multiplied number rounded up to 8 digits
+
+## Scenario: Multiplication by Zero
+
+## Scenario: Multiplication by 1
+
+## Scenario: Multiplication of Decimals
+
+## Scenario: Simple multiplication
+
+## Scenario: Decimal & integer multiplication
