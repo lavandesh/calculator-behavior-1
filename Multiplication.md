@@ -4,7 +4,9 @@
 
 Given the calculator is ON
 
-When two sufficiently large numbers are entered with 'multiply' in between to give a 11 digit or longer number but not beyond the largest integer possible
+When two sufficiently large numbers are entered with 'multiply' 
+in between to give a 11 digit or longer number 
+but not beyond the largest integer possible
 
 Then display the number with scroll feature
 
@@ -12,7 +14,10 @@ Then display the number with scroll feature
 
 Given the calculator is ON
 
-When I press 'open bracket' and enter 'negative number' and press 'close bracket' and press 'multiply' and again press 'open bracket' and enter another 'negative number' and press 'close bracket' and press 'equals'
+When I press 'open bracket' and enter 'negative number' 
+And press 'close bracket' and press 'multiply' 
+And again press 'open bracket' and enter another 'negative number' 
+And press 'close bracket' and press 'equals'
 
 Then I see multiplication result with positive sign
 
