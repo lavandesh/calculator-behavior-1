@@ -36,7 +36,7 @@ and press multiply
 and enter another 'irrational number'
 and press equals
 
-then display the result in decimals upto 8 places
+then display the result in decimals up to 8 places
 
 ## Scenario: Simple multiplication
 
@@ -49,7 +49,7 @@ And press 'close bracket' and press 'multiply'
 And again press 'open bracket' and enter another 'rational number'
 And press 'close bracket' and press 'equals'
 
-then display the result in decimals upto 8 places
+then display the result in decimals up to 8 places
 
 ## Scenario: Decimal & integer multiplication
 
@@ -106,4 +106,4 @@ When I multiply two numbers
 whose multiplication has more than 9 digits
 after decimal point
 
-Then display multiplied number rounded upto 8 digits
+Then display multiplied number rounded up to 8 digits
