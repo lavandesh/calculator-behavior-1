@@ -1,4 +1,4 @@
-# Addition Test
+# Addition
 
 ## Scenario: Addition of two positive numbers
 
