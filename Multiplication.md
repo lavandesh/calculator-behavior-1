@@ -4,8 +4,8 @@
 
 Given the calculator is ON
 
-When two sufficiently large numbers are entered with 'multiply'
-in between to give a 11 digit or longer number
+When I multiply two sufficiently large numbers
+to give a 11 digit or longer number
 but not beyond the largest integer possible
 
 Then display the number with scroll feature
