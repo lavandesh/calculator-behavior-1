@@ -22,7 +22,7 @@
 
 ## Scenario: Range of operand exceeds allowed limit
 
-## Scenario: Pressing "multiply button" multiple times
+## Scenario: Pressing "multiply button" more than once
 
 ## Scenario: Interleaving operators (Press *, then press /, then press +)
 
