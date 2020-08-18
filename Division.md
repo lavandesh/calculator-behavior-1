@@ -73,7 +73,7 @@ and press equals
 then display result with decimal points
 rounded up to 8 digits
 
-## Scenario: Multiple times "/" is pressed
+## Scenario: Operand "/" more than once
 
 Given the calculator is ON
 
@@ -84,7 +84,7 @@ and press equals
 
 Then display 'divided number' as a result
 
-## Scenario: Interleaving of multiple operators
+## Scenario: Interleaving of operators
 
 Given the calculator is ON
 
@@ -120,7 +120,7 @@ And press 'close bracket' and press 'equals'
 
 then display the result in decimals up to 8 places
 
-## Scenario: Division of multiple numbers (for example: 4/5/6/7)
+## Scenario: Division of more than one number (for example: 4/5/6/7)
 
 Given the calculator is ON
 
